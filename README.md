@@ -53,5 +53,5 @@ From an ethical perspective, it is important not to interpret these results as a
 
 ## Sources
 
-![Kaggle Dataset](https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset?resource=download)
-![Google Sheets](https://docs.google.com/spreadsheets/d/1bPYk069YWhUJBg1NYFa3p1RzconGpvCPPs24vBMgU5k/edit?gid=405628554#gid=405628554)
+[Kaggle Dataset](https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset?resource=download)
+[Google Sheets](https://docs.google.com/spreadsheets/d/1bPYk069YWhUJBg1NYFa3p1RzconGpvCPPs24vBMgU5k/edit?gid=405628554#gid=405628554)

@@ -29,6 +29,14 @@ Average audio features by popularity category. Songs with higher popularity scor
 
 ![Average Popularity of Explicit vs. Non Explicit Songs](chart2.png)
 
+Explicit songs had an average popularity score of approximately 36.5 compared with 32.9 for non-explicit songs. While explicit tracks were somewhat more popular on average, the difference was relatively small and does not suggest that explicit content alone explains popularity
+
+## Genre and Popularity Distribution 
+
+![Genres with Highest Average Spotify Popularity (%)](chart3.png)
+
+Average Spotify popularity scores varied across genres in the dataset. Pop-film, k-pop
+
 ## Methods and Limitations
 
 This analysis was conducted using Google Sheets. Pivot tables were used to summarize average values across catefories, and bar charts were created to visualize the findings. Because the porject relies on more descriptive statistics, it identifies associations rather than causal relationships. 

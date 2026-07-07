@@ -29,7 +29,7 @@ Average audio features by popularity category. Songs with higher popularity scor
 
 ![Average Popularity of Explicit vs. Non Explicit Songs](chart2.png)
 
-Explicit songs had an average popularity score of approximately 36.5 compared with 32.9 for non-explicit songs. While explicit tracks were somewhat more popular on average, the difference was relatively small and does not suggest that explicit content alone explains popularity
+Explicit songs had an average popularity score of approximately 36.5 compared with 32.9 for non-explicit songs. While explicit tracks were somewhat more popular on average, the difference was relatively small and does not suggest that explicit content alone explains popularity. 
 
 ## Genre and Popularity Distribution 
 

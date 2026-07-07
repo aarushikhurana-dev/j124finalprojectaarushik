@@ -33,9 +33,9 @@ Explicit songs had an average popularity score of approximately 36.5 compared wi
 
 ## Genre and Popularity Distribution 
 
-![Genres with Highest Average Spotify Popularity (%)](chart3.png)
+![Genres with Highest Average Spotify Popularity (%)](chart5.png)
 
-Average Spotify popularity scores varied across genres in the dataset. Pop-film, k-pop
+Average Spotify popularity scores varied across genres in the dataset. Pop-film, k-pop, and chill track genres had the highest average popularity scores. These differences suggest that some genres are associated with higher popularity on Spotify, although genre alone does not determine a song's success.  
 
 ## Methods and Limitations
 
@@ -52,3 +52,6 @@ These findings suggest that musical characteristics alone cannot fully explain a
 From an ethical perspective, it is important not to interpret these results as a formula for creating successful music or evidence that certain genres or artistic styles are inherently better than others. The dataset reflects Spotify's platform and ranking system rather than universal musical quality or lsitener preferences. Additional reporting, including interviews with artists, producers, and music industry professionals, would provide valuable context that numerical data alone cannot capture. 
 
 ## Sources
+
+![Kaggle Dataset](https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset?resource=download)
+![Google Sheets](https://docs.google.com/spreadsheets/d/1bPYk069YWhUJBg1NYFa3p1RzconGpvCPPs24vBMgU5k/edit?gid=405628554#gid=405628554)

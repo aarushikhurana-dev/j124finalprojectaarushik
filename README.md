@@ -21,9 +21,13 @@ The analysis found that most audio features remained relatively consistent acros
 
 ## Average Audio Features by Song Popularity
 
-image 
+![Average Audio Features by Popularity](chart1.png)
 
-description
+Average audio features by popularity category. Songs with higher popularity scores tended to have greater danceability and lower acousticness, while average energy and valence remained relatively consistent across popularity groups. 
+
+## Average Popularity of Explicit vs. Non Explicit Songs
+
+![Average Popularity of Explicit vs. Non Explicit Songs](chart2.png)
 
 ## Methods and Limitations
 
